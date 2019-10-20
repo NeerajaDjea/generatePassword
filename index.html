@@ -24,10 +24,11 @@
                 <div class="content">
                     <h4> Generate a Password </h4>
                     <hr>
-                    <input textarea cols="40" rows="15" type="text" id="display" placeholder="Your Secure Password">
+                    <input type="text" id="display" placeholder="Your Secure Password">
                     <hr>
                     <div class="buttons">
-                        <button onclick="generate()"class="button1">Generate Password </button>
+                        <!-- add a eventlistener to the buttons -->
+                        <button onclick="generate()" class="button1">Generate Password </button>
                         <button onclick="copyPassword()" class="button2"> Copy to Clipboard</button>
                     </div>
                 </div>
