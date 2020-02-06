@@ -1,9 +1,9 @@
 Password Generator
+ ![screenshot](Screenshot 2020-02-06 at 10.54.07.png)
 
    Files : index.html, style.css and script.js
 * url - https://neerajadjea.github.io/generatePassword/
 * Details:
- ![screenshot](Screenshot 2020-02-06 at 10.54.07.png)
 
 The application asks the user to enter the length of the password required. On entering the length, a random password is generated.
 Eventlisteners are added to the 'buttons', which are invoked on clicking them.
