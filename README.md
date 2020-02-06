@@ -1,5 +1,5 @@
 Password Generator
- ![screenshot](pass.png=250)
+ ![screenshot](pass.png)
 
    Files : index.html, style.css and script.js
 * url - https://neerajadjea.github.io/generatePassword/
